@@ -1,0 +1,17 @@
+PLAN PRACY
+
+1. Przygotowanie bazy danych
+2. Utworzenie połączenia PHP z MySQL
+3. Zrobienie strony z listą filmów
+4. Zrobienie strony ze szczegółami filmu
+5. Dodanie listy aktorów
+6. Dodanie recenzji
+7. Przygotowanie prostego wyglądu CSS
+8. Sprawdzenie działania strony
+
+PODZIAŁ PRACY:
+- Osoba planująca — przygotowanie planu
+- Osoba od bazy danych — utworzenie tabel
+- Osoba od wyglądu — HTML i CSS
+- Osoba od PHP — połączenie z bazą i obsługa anych
+- Osoba testująca — sprawdzenie działania strony

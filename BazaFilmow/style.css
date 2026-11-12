@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    margin: 0;
+    color: #222222;
+}
+header {
+    background-color: #333333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+main {
+    width: 80%;
+    margin: 25px auto;
+    background-color: white;
+    padding: 20px;
+}
+.film {
+    border: 1px solid #cccccc;
+    padding: 12px;
+    margin: 12px 0;
+}
+a {
+    color: #145da0;
+}
+input, select, textarea {
+    padding: 7px;
+    margin-top: 5px;
+}
+textarea {
+    width: 300px;
+    height: 80px;
+}
+button {
+    padding: 8px 16px;
+    cursor: pointer;
+}

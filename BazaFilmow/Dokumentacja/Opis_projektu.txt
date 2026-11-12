@@ -1,0 +1,15 @@
+OPIS PROJEKTU — BAZA FILMÓW
+
+Celem projektu jest stworzenie prostej strony internetowej, na której można przeglądać filmy i aktorów oraz dodawać recenzje.
+
+Do wykonania projektu użyto:
+- HTML — budowa strony,
+- CSS — wygląd strony,
+- PHP — działanie strony,
+- MySQL — przechowywanie danych.
+
+Strona posiada listę filmów. Po kliknięciu w film można zobaczyć jego opis, rok produkcji, gatunek, aktorów i recenzje.
+
+Użytkownik może również dodać własną recenzję i wybrać ocenę od 1 do 10.
+
+Baza danych składa się z czterech tabel: filmy, aktorzy, obsada i recenzje.
